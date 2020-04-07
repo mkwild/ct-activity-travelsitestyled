@@ -198,6 +198,10 @@ header a {
   color: white;
 }
 
+header a:hover {
+  text-decoration: underline;
+}
+
 
 /*
  target the table element 
